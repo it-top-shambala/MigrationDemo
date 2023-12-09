@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationDemo.App", "MigrationDemo.App\MigrationDemo.App.csproj", "{1323173A-D68B-4BB6-B3B0-465DAFBF1CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationDemo.DAL", "MigrationDemo.DAL\MigrationDemo.DAL.csproj", "{FA6169DE-AC56-4B3B-A8E1-8BBCD3428299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigrationDemo.BL", "MigrationDemo.BL\MigrationDemo.BL.csproj", "{5C1F87D0-ABC7-4D00-9B9F-432B643482B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1323173A-D68B-4BB6-B3B0-465DAFBF1CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1323173A-D68B-4BB6-B3B0-465DAFBF1CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1323173A-D68B-4BB6-B3B0-465DAFBF1CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1323173A-D68B-4BB6-B3B0-465DAFBF1CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6169DE-AC56-4B3B-A8E1-8BBCD3428299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6169DE-AC56-4B3B-A8E1-8BBCD3428299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6169DE-AC56-4B3B-A8E1-8BBCD3428299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6169DE-AC56-4B3B-A8E1-8BBCD3428299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1F87D0-ABC7-4D00-9B9F-432B643482B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1F87D0-ABC7-4D00-9B9F-432B643482B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1F87D0-ABC7-4D00-9B9F-432B643482B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1F87D0-ABC7-4D00-9B9F-432B643482B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
